@@ -1,0 +1,20 @@
+[{
+    "image": "https://i.ibb.co/0fq6JZ0/hanif.png",
+    "title": "Bus Services",
+    "price": 1200
+  },
+   {
+    "image": "https://i.ibb.co/rvkbcJP/rail.png",
+    "title": "Train Services",
+    "price": 1000
+  }, 
+  {
+    "image": "https://i.ibb.co/RQc7ygK/airlines.png",
+    "title": "Airline Services",
+    "price": 12000
+  },
+   {
+    "image": "https://i.ibb.co/Z2BB142/ship.png",
+    "title": "Cruise Services",
+    "price": 5000
+  }]

@@ -1,0 +1,18 @@
+.main-menu{
+    display: flex;
+    justify-content: flex-end;
+}
+a{
+    text-decoration: none !important;
+    color: white !important;
+}
+.navbar-light .navbar-brand {
+    font-weight: 700;
+    font-size: 35px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.7);
+    margin-right: 16px;
+    font-weight: 400;
+    
+}
